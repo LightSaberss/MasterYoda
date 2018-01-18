@@ -1,0 +1,12 @@
+h1{ font-family:"Comic Sans MS", cursive, sans-serif;
+color: blue; text-align: center;}
+body{
+	background-image:url("https://cnet1.cbsistatic.com/img/3JsRfQgU2IGoq3d-88YTvfLQ7Bw=/770x433/2017/11/16/0a9d1037-52a1-4bc9-a929-16df4982304e/darthvaderauralnauts.jpg");
+background-size:100%;
+}
+p{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	text-align: center;
+	color: white;
+	font-size: 20px;
+}
