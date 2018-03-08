@@ -87,7 +87,7 @@ function draw(){
 	y += speedY;
 collisionCheck();
 handleCollision();
-}
+}ll
 
 init();
 
